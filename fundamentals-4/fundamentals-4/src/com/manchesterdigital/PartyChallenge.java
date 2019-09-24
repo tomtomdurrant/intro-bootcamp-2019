@@ -1,3 +1,5 @@
+package com.manchesterdigital;
+
 public class PartyChallenge {
 
     private static final int BAD_OUTCOME = 0;
