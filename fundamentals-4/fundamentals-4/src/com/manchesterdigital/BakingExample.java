@@ -2,7 +2,7 @@ package com.manchesterdigital;
 
 public class BakingExample {
     public static void main(String[] args) {
-        switchOvenOn(6)
+        switchOvenOn(6);
     }
 
     public void decorate(){

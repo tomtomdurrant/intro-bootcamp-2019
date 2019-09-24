@@ -7,6 +7,5 @@ public class Scratch {
         BakingExample bakingExample = new BakingExample();
         bakingExample.decorate();
         switchOvenOn(6);
-        bakingExample.
     }
 }
