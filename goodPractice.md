@@ -16,3 +16,6 @@ Start with a private method unless you need to make it public
 Constants use all caps with underscores to separate words. `CONSTANT_IS_HERE`
 
 You should have as few exit points as possible in your code. (return statements)
+
+With regards to this, it is good to initialise a variable at the top of the method and then change the variable value throughout the method. Then you can have one return (break point) at the bottom of the method.
+
