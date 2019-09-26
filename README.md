@@ -1,6 +1,11 @@
 # bootcamp2019
 
+Start date
+
+Monday 16th September 2019
+
 Vendor Exam: 
+
 - Microsoft 70-483
 
 ## Friday 20/9/2019
