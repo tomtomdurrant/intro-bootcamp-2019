@@ -23,10 +23,6 @@ Front end often do thing 1 whilst waiting for thing 2 to return from either the 
 
 
 
-
-
-
-
 ## TDD
 
 
@@ -36,3 +32,11 @@ Ensure you refactor your test code.
 Usually should only have 1 assertion per unit test 
 
 Tests mean you don't need to create a main method. 
+
+
+
+## Pair programming
+
+Enables 2 people to work on a project which usually means fewer mistakes and also keeps 2 people's brains involved in the project.
+
+There are different forms, where different people lead on developing the code. 
