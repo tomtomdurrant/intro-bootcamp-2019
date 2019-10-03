@@ -46,8 +46,6 @@ If `void` then the class will not return anything.
 
 You can also have private variables which will only be accessible inside the class.
 
-
-
 Methods are important so that you **D**on't **R**epeat **Y**ourself.
 
 Try not to have more than 5 arguments in a single method. 

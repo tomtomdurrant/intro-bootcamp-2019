@@ -6,10 +6,12 @@ List hidden files and folders, shows the permissions, who owns it and lists the 
 `git reset HEAD file.name` - removes the file from the staging area
 
 ## Github
-Pull request is asking the owner of the repository to pull the branch.
 
+A new repository **must** be created in github.
+A pull request is asking the owner of the repository to pull the branch from the changes you have created. 
 
 ## IntelliJ
+
 Src folder then compiles to the target folder. 
 Then main & test -\> java & resources
 Inside here is many different components - different folder names
