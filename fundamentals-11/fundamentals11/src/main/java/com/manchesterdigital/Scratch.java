@@ -75,7 +75,7 @@ public class Scratch {
         }
         allArtists.forEach(artist -> System.out.println("artist = " + artist.getName()));
 
-        //As system.out returns a void you cannot call a getter on it. 
+        //As system.out returns a void you cannot call a getter on it.
         allArtists.forEach(System.out::println);
 
     }
