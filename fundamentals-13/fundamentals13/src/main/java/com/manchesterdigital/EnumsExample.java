@@ -1,6 +1,6 @@
 package com.manchesterdigital;
 
-public class EnumsExample {
+public class    EnumsExample {
     public static void main(String[] args) {
         for (Colours value : Colours.values()) {
             System.out.println("value = " + value);

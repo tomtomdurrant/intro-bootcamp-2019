@@ -10,7 +10,7 @@ public class FoodProcessor extends Machine implements BlendsFood, Rotatable {
         super(manufacturer, colours, name);
         this.ingredients = ingredients;
     }
-Long
+
     @Override
     public void mixFoodContents() {
         ingredients.stream()
